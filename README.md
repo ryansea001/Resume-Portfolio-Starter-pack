@@ -1,4 +1,4 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Nima React JS Resume Starter Pack and Digital Portfolio
 
 ![nima React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
 
